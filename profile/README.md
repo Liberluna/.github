@@ -1,6 +1,7 @@
-## Hi there 👋
+# Hi there 👋
 We are the 'Liberluna'!!✨
-
+### What is 'Liberluna'?🤔
+Liberluna is hacker, programmer, engineer and artist group.
 <!--
 
 **Here are some ideas to get you started:**
