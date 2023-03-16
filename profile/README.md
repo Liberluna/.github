@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/People-9-000000?logo=github&style=social)
+![](https://img.shields.io/badge/People-10-000000?logo=github&style=social)
 # Hi there 👋
 ![](https://raw.githubusercontent.com/Liberluna/Liberluna/main/logos/liberluna-logo.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/Liberluna/Liberluna/main/logos/liberluna-logo-white.svg#gh-dark-mode-only)  
