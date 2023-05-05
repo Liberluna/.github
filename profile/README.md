@@ -7,6 +7,9 @@ We are the 'Liberluna'!!✨
 Liberluna is hacker, programmer, engineer and artist group.
 ## We are active in Element!
 We advertise on LINE Open-chat. And we are active in Element!
+## Want to join?
+Please join us for LINE Open Chat & Element!
+[Liberluna【ハッカー集団】誰でも質問部屋](https://line.me/ti/g2/beNFT8zr5MEL_Um5xmSBZthZwfIuZcQu8-bYMA)
 <!--
 
 **Here are some ideas to get you started:**
